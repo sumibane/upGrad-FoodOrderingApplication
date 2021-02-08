@@ -9,4 +9,4 @@ The whole code is hence upuloaded in a single go.
 Contributers:
 1. Sumit
 2. Rashmi
-3. Goverdhan
+3. Govardhan
